@@ -1,5 +1,5 @@
 Welcome to my GitHub profile!
-I am an MPhil in Software Engineering graduate, AI & NLP researcher, and Lecturer at Islamia University of Bahawalpur. With expertise in Python, Machine Learning, Deep Learning, and Natural Language Processing, I combine academic rigor with hands-on experience. I’m IEEE-published and certified in Deep Learning through Coursera and Kaggle. Passionate about leveraging technology for social impact, I actively contribute to youth tech empowerment and am currently seeking a funded PhD opportunity in AI/ML.
+I am an MPhil in Software Engineering graduate, AI & NLP researcher, and Lecturer at Islamia University of Bahawalpur. With expertise in Python, Machine Learning, Deep Learning, and Natural Language Processing, I combine academic rigor with hands-on experience. I’m IEEE-published and certified in Deep Learning through Coursera and Kaggle. 
 
 ---
 
